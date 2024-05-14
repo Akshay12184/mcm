@@ -1,1 +1,1 @@
-##Minecraft Package Manager
+Minecraft Package Manager
