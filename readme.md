@@ -15,12 +15,19 @@ Usage
 Once MPM is installed, you can use the following commands:
 
 mpm tap_repository <repository url>: Add a new repository to your list of tapped repositories.
+
 mpm install <package>: Install a package from the tapped repositories.
+
 mpm update [package]: Update a specific package or all packages if no package name is provided.
+
 mpm remove <package>: Remove a specific package.
+
 mpm list: List all installed packages.
+
 mpm run <package>: Run a specific package.
+
 mpm self_update: Update the MPM system itself.
+
 For instance, to install a package named my_package, you would use the command mpm install my_package.
 ---
 Updates:
