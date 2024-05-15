@@ -14,7 +14,7 @@ During installation, you will be prompted to add the default package repository.
 Usage
 Once MPM is installed, you can use the following commands:
 
-mpm tap_repository <repository url>: Add a new repository to your list of tapped repositories.
+Mpm tap_repository <repository url>: Add a new repository to your list of tapped repositories.
 
 mpm install <package>: Install a package from the tapped repositories.
 
