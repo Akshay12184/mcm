@@ -1,6 +1,6 @@
-Minecraft Package Manager (MPM)
+Minecraft Chest Monitor (MCM)
 ---
-MPM is a package manager for Minecraft's ComputerCraft mod. With MPM, you can easily manage and update scripts and utilities across your in-game computers, pulling directly from GitHub repositories.
+minecraft chest monitor 
 ---
 Installation
 Download the install.lua file to your in-game computer using the Pastebin get command. Replace pastebin_link with the link to the Pastebin.
@@ -30,9 +30,3 @@ mpm self_update: Update the MPM system itself.
 
 For instance, to install a package named my_package, you would use the command mpm install my_package.
 ---
-Updates:
-Installation process now automatically deletes install.lua after completion.
-Running just mpm now displays the list of available commands.
-Fixed the issue with mpm not being globally accessible from the terminal.
-Introduced mpm self_update command to keep MPM up to date.
-mpm update now allows updating all packages when no package name is provided.
