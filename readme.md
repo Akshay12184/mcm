@@ -4,9 +4,9 @@ minecraft chest monitor
 ---
 Installation
 Download the install.lua file to your in-game computer using the Pastebin get command. Replace pastebin_link with the link to the Pastebin.
----
 Wget run https://github.com/Akshay12184/mpm
-Run the install.lua script to install MPM. This script will automatically download the necessary package manager files from the MPM GitHub repository.
+
+run the install.lua script to install MPM. This script will automatically download the necessary package manager files from the MPM GitHub repository.
 ---
 install
 During installation, you will be prompted to add the default package repository. This repository contains a variety of useful packages. To add this repository, simply enter yes when prompted.
