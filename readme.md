@@ -6,27 +6,13 @@ Installation
 Download the install.lua file to your in-game computer using the Pastebin get command. Replace pastebin_link with the link to the Pastebin.
 Wget run https://github.com/Akshay12184/mpm
 
-run the install.lua script to install MPM. This script will automatically download the necessary package manager files from the MPM GitHub repository.
+run the install.lua script to install McM.
 ---
-install
-During installation, you will be prompted to add the default package repository. This repository contains a variety of useful packages. To add this repository, simply enter yes when prompted.
----
+
 Usage
-Once MPM is installed, you can use the following commands:
+Once you have installed mcm you can use it in game to check what you have stored in your chest. 
 
-Mpm tap_repository <repository url>: Add a new repository to your list of tapped repositories.
+when you run the code it will show you via the right/left monitor wich items you got in that chest
 
-mpm install <package>: Install a package from the tapped repositories.
 
-mpm update [package]: Update a specific package or all packages if no package name is provided.
-
-mpm remove <package>: Remove a specific package.
-
-mpm list: List all installed packages.
-
-mpm run <package>: Run a specific package.
-
-mpm self_update: Update the MPM system itself.
-
-For instance, to install a package named my_package, you would use the command mpm install my_package.
 ---
